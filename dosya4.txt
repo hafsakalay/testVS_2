@@ -1,1 +1,2 @@
 this file has been created in order to understand  pull  command
+this line shows that I succesfully finished pull command and understand how it works by using both VS and Github
