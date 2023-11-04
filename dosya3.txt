@@ -1,1 +1,2 @@
 dosya3 satır1
+dosya3 e satır2 ekledim
